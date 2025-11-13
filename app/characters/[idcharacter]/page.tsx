@@ -13,7 +13,7 @@ export default async function IdCharacter( { params }: ParansCharacter ) {
     return (
 
         <div>
-            <h1>{ idcharacter }</h1>
+            <h1>This is the { idcharacter }´s Website</h1>
         </div>
     )
 
